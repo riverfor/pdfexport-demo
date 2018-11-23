@@ -1,4 +1,11 @@
-# Install
+# Installation
+
+### Install wkhtmltopdf on Ubuntu
+```
+bash wkhtmltopdf_install.sh
+```
+
+### Install Python modules
 ```
 # create virtualenv
 bash create_new_venv.sh venv
